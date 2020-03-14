@@ -1,8 +1,5 @@
 <h1 align="center">GitHub Repositories</h1>
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-05/blob/master/README.md"><img alt="GitHub language count" src="https://img.shields.io/badge/GitHubUsers-desafio05-blue"></a>
-
-
 
 
 </h3>
@@ -10,9 +7,9 @@
   <b>Github Users</b> é uma simples single page que usa api to Github para fazer a listagem de Usuarios e suas stars, vale lembrar que o projeto utiliza,styled-components💅</p>
 
 
-<p float="left">
-  <img src="/src/assets/demo2.png" width="300" />
-  <img src="/src/assets/demo3.png" width="300" />
+<p float="left" align="center">
+  <img src="/src/assets/demo2.png" width="200" />
+  <img src="/src/assets/demo3.png" width="200" />
 </p>
 
 
