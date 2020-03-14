@@ -11,8 +11,8 @@
 
 
 <p float="left">
-  <img src="/src/assets/demo2.png" width="100" />
-  <img src="//src/assets/demo3.png" width="100" />
+  <img src="/src/assets/demo2.png" width="300" />
+  <img src="/src/assets/demo3.png" width="300" />
 </p>
 
 
