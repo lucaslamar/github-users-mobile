@@ -8,8 +8,8 @@
 
 
 <p float="left" align="center">
-  <img src="/src/assets/demo2.png" width="200" />
-  <img src="/src/assets/demo3.png" width="200" />
+  <img src="/src/assets/nn.png" width="200" />
+  <img src="/src/assets/ss.png" width="200" />
 </p>
 
 
