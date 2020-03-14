@@ -9,10 +9,11 @@
 <p align="center">
   <b>Github Users</b> é uma simples single page que usa api to Github para fazer a listagem de Usuarios e suas stars, vale lembrar que o projeto utiliza,styled-components💅</p>
 
-<img  src="/src/assets/demo2.png">
-<img  src="/src/assets/demo3.png">
 
-
+<p float="left">
+  <img src="/src/assets/demo2.png" width="100" />
+  <img src="//src/assets/demo3.png" width="100" />
+</p>
 
 
 
